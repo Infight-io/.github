@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Infight is a game you play with your friends in Discord!
+
 <!--
 
 **Here are some ideas to get you started:**
